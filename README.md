@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm currently actively working on [myFront.page](https://myfront.page).
+I have a ton of projects, you can find all of them on my personal website: [àn.de](https://àn.de)
+Here on GitHub, I'm working on some small open-source projects of mine!
+
+If you have a question, feel free to reach me [on Twitter](https://twitter.com/AnTheMaker)!
+
+**Have a great day! :D**
 
 <!--
 **AnTheMaker/AnTheMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
