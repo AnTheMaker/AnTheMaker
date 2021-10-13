@@ -5,7 +5,7 @@ I have a ton of projects, you can find all of them on my personal website: [AnTh
 
 Here on GitHub, I'm working on some small open-source projects of mine!
 
-If you have a question, feel free to reach me [on Twitter](https://twitter.com/AnTheMaker)!
+If you have a question, feel free to reach me [on Twitter](https://twitter.com/AnTheMaker) or via email: hi@anthemaker.com!
 
 **Have a great day! :D**
 
