@@ -9,6 +9,9 @@ If you have a question, feel free to reach me [on Twitter](https://twitter.com/A
 
 **Have a great day! :D**
 
+<img src="https://github-readme-stats.vercel.app/api?username=anthemaker&count_private=true&show_icons=true&hide=contribs#gh-light-mode-only" alt="Graph showing my GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=anthemaker&count_private=true&show_icons=true&hide=contribs&theme=gruvbox#gh-dark-mode-only" alt="Graph showing my GitHub Statistics">
+
 <!--
 **AnTheMaker/AnTheMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
