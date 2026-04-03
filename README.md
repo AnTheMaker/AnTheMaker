@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm currently actively working on [SpaceHey](https://spacehey.com), a retro Social Network with over 1 000 000 users.
+I'm currently actively working on [SpaceHey](https://spacehey.com), a retro Social Network with over 2 000 000 users.
 
-I have a ton of projects, you can find all of them on my personal website: [AnTheMaker.com](https://anthemaker.com)
+I have a ton of projects, you can find all of them on my personal website: [AntonRoehm.com](https://antonroehm.com)
 
 Here on GitHub, I'm mostly working on private repositories (and sometimes on some small open-source projects of mine)!
 
